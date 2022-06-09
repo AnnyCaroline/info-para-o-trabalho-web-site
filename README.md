@@ -1,1 +1,3 @@
-# https-github.com-AnnyCaroline-info-para-o-trabalho-web-site
+# Informática para o trabalho - trabalho 2
+
+https://github.com/AnnyCaroline/informatica-para-trabalho/issues/2
